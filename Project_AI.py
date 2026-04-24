@@ -1,9 +1,9 @@
 import tkinter as tk
 from tkinter import messagebox
-import shogi 
+import shogi  # type: ignore
 import random
 import os
-from PIL import Image, ImageTk 
+from PIL import Image, ImageTk  # type: ignore
 
 # Configuration & Constants
 PIECE_NAMES = {

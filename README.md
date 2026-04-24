@@ -3,7 +3,7 @@
 ## El-Team:
 #### Khaled Gamal Mamon - Sec: 3
 #### Khaled Megahed - Sec: 3
-#### Samy Omar - Sec: 2
+#### Samy Omar - Sec: 4
 
 ## Idea
 The idea is that it's a game similar to chess, but Chinese. 

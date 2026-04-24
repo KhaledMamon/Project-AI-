@@ -5,8 +5,10 @@
 #### Khaled Megahed - Sec: 3
 #### Samy Omar - Sec: 2
 
-## Project Concept
-This project is an AI-based game implementation. The core idea is to create an intelligent agent capable of making strategic decisions within a competitive environment, focusing on optimizing moves to achieve the highest possible score or a win condition.
+## Idea
+The idea is that it's a game similar to chess, but Chinese. 
+The differences are as follows:
+Shogi: More squares, more pieces, different promotion methodon.
 
 ## Algorithm
 The project utilizes the following algorithm:
@@ -17,14 +19,14 @@ The project utilizes the following algorithm:
 ## Gameplay and Rules
 
 ### Game Pieces
-#### Number of Pieces = 20
-* Kingh   --> 1 piece    
-* Gold    --> 2 pieces   
-* Elepent --> 1 pieces -   promotion --> Elepent + King
-* Fort    --> 1 pieces -   promotion --> Fort    + King
-* Silver  --> 2 pieces -   promotion --> Gold 
-* Sheft   --> 2 pieces -   promotion --> Gold
-* Hourse  --> 2 pieces -   promotion --> Gold
-* Soldier --> 9 pieces -   promotion --> Gold
+#### Number of Pieces = 20, but 
+1. Kingh ----> 1 piece    
+2. Gold -----> 2 pieces   
+3. Elepent --> 1 pieces ---   promotion --> Elepent + King
+4. Fort ------> 1 pieces ---   promotion --> Fort + King
+5. Silver ----> 2 pieces ---   promotion --> Gold 
+6. Sheft ----> 2 pieces ---   promotion --> Gold
+7. Hourse --> 2 pieces ---   promotion --> Gold
+8. Soldier --> 9 pieces ---   promotion --> Gold
 
 
